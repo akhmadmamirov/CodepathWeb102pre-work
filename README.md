@@ -36,7 +36,7 @@ GIF created with ...
 ## Notes
 
 Describe any challenges encountered while building the app.
-At the beginning of the project I strugled with the DOM manipulation with JS. However, after putting my head down, things started coming through
+At the beginning of the project I struggled little with the DOM manipulation with JS. However, after putting my head down, things started coming through
 ## License
 
     Copyright [yyyy] [name of copyright owner]
