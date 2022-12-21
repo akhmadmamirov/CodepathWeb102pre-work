@@ -48,7 +48,7 @@ deployed with Github pages
 ## Notes
 
 Describe any challenges encountered while building the app.
-At the beginning of the project I struggled little with the DOM manipulation with JS. However, after putting my head down, things started coming through
+At the beginning of the project I struggled little with the DOM manipulation with JS and creating and uploading gif. However, after putting my head down, things started coming through
 ## License
 
     Copyright December, 2022 Akhmadillo Mamirov
