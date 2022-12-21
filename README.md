@@ -17,8 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* [Added Background Color and Cursor Pointer to Buttons] List anything else that you can get done to improve the app functionality!
-Published to Github Pages https://akhmadmamirov.github.io/CodepathWeb102pre-work/
+* Added Background Color and Cursor Pointer to Buttons 
+* Published to Github Pages https://akhmadmamirov.github.io/CodepathWeb102pre-work/
 
 ## Video Walkthrough
 
