@@ -24,6 +24,20 @@ The following **optional** features are implemented:
 Checkout Below
 https://akhmadmamirov.github.io/CodepathWeb102pre-work/
 
+## Video Walkthrough
+
+Here's a walkthrough of implemented features:
+
+<img src='https://media.giphy.com/media/gCSzTHs5Cn8C12JJ31/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+<!-- Replace this with whatever GIF tool you used! -->
+GIF created with ...  
+<!-- Recommended tools:
+[Kap](https://getkap.co/) for macOS
+[ScreenToGif](https://www.screentogif.com/) for Windows
+[peek](https://github.com/phw/peek) for Linux. -->
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 deployed with Github pages
 <!-- Recommended tools:
