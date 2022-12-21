@@ -17,8 +17,8 @@ The following **required** functionality is completed:
 
 The following **optional** features are implemented:
 
-* Added Background Color and Cursor Pointer to Buttons 
-* Published to Github Pages https://akhmadmamirov.github.io/CodepathWeb102pre-work/
+* Added Personal Design to Stats Section and Cursor Pointer to Buttons 
+* Deployed to Github Pages https://akhmadmamirov.github.io/CodepathWeb102pre-work/
 
 ## Video Walkthrough
 
