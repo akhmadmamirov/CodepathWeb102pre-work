@@ -25,7 +25,7 @@ Checkout Below
 https://akhmadmamirov.github.io/CodepathWeb102pre-work/
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
+deployed with Github pages
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
