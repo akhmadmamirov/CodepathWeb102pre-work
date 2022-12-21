@@ -20,11 +20,9 @@ The following **optional** features are implemented:
 * Added Personal Design to Stats Section and Cursor Pointer to Buttons 
 * Deployed to Github Pages https://akhmadmamirov.github.io/CodepathWeb102pre-work/
 
-## Video Walkthrough
-
-Here's a walkthrough of implemented features:
-
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## Deployed into Production
+Checkout Below
+https://akhmadmamirov.github.io/CodepathWeb102pre-work/
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
@@ -39,7 +37,7 @@ Describe any challenges encountered while building the app.
 At the beginning of the project I struggled little with the DOM manipulation with JS. However, after putting my head down, things started coming through
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright December, 2022 Akhmadillo Mamirov
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
